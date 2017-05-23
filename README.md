@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{This is a webpage, it is my first one...any questions?}, {May 22, 2017}_
+#### This is a webpage, it is my first one...any questions?, May 22, 2017_
 
-#### By _**{Sowmya, Joel}**_
+#### By _**Sowmya, Joel**_
 
 ## Description
 
-_{This is a webpage that was created to fulfill the requirements set by our overlord Elysia. It's purpose is to give the syllabus of our Epicodus program.}_
+_This is a webpage that was created to fulfill the requirements set by our overlord Elysia. It's purpose is to give the syllabus of our Epicodus program._
 
 ## Setup/Installation Requirements
 
@@ -19,18 +19,18 @@ _{This is a webpage that was created to fulfill the requirements set by our over
 
 ## Known Bugs
 
-_{There are no known bugs at this time.}_
+_There are no known bugs at this time._
 
 ## Support and contact details
 
-_{Let us know if you run into any issues or have questions, ideas or concerns.  Please contact the authors at sowmyalogaswamy@gmail.com OR jkbetc@gmail.com}_
+_Let us know if you run into any issues or have questions, ideas or concerns.  Please contact the authors at sowmyalogaswamy@gmail.com OR jkbetc@gmail.com_
 
 ## Technologies Used
 
-_{Created using Atom and Uploaded using terminal to GitHub.}_
+_Created using Atom and Uploaded using terminal to GitHub._
 
 ### License
 
-*{GNU Affero General Public License v3.0}*
+*GNU Affero General Public License v3.0*
 
-Copyright (c) 2016 **_{Sowmya, Joel}_**
+Copyright (c) 2016 **_Sowmya, Joel_**
